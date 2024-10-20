@@ -4,7 +4,7 @@
 <h3 align="center">I'm Dhanusha Sathsara, a second-year BSc (Hons.) Full Stack Software Engineering student at JAVA INSTITUTE. I have a strong foundation in both frontend and backend development and am driven by solving real-world problems through innovative solutions. I'm currently interested in AI and AI-related topics, always eager to learn new technologies. I'm excited to contribute to impactful projects and collaborate with like-minded individuals.</h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJkbDI0d2w5aXY4N2UzdTJqY2N4aWVqMTMzdXZpczRnOGxrYXZzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp"/>
+  <img alt="Coding" width="400" src="https://i.pinimg.com/originals/ea/db/74/eadb74787dda41cc6333341e55293432.gif"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhanusha-sathsara-jayasri&label=Profile%20views&color=0e75b6&style=flat" alt="dhanusha-sathsara-jayasri" /> </p>
