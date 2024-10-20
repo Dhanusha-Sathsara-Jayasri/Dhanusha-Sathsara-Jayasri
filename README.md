@@ -38,7 +38,7 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center;">
-      <img align="center" style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanusha-sathsara-jayasri&show_icons=true&locale=en&layout=compact" alt="dhanusha-sathsara-jayasri" />
+      <img align="center" style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanusha-sathsara-jayasri&show_icons=true&locale=en&layout=compact" alt="dhanusha-sathsara-jayasri" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanusha-sathsara-jayasri&" alt="dhanusha-sathsara-jayasri" />
   </div>
 </p>
