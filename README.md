@@ -38,10 +38,10 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanusha-sathsara-jayasri&show_icons=true&locale=en&layout=compact" alt="dhanusha-sathsara-jayasri" />
+      <img align="center" style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanusha-sathsara-jayasri&show_icons=true&locale=en&layout=compact" alt="dhanusha-sathsara-jayasri" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanusha-sathsara-jayasri&" alt="dhanusha-sathsara-jayasri" />
   </div>
 </p>
 
-<p align="center" > <img  style="margin-top: 50px;" src="https://github-readme-stats.vercel.app/api?username=dhanusha-sathsara-jayasri&show_icons=true&locale=en" alt="dhanusha-sathsara-jayasri" /></p>
+<p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=dhanusha-sathsara-jayasri&show_icons=true&locale=en" alt="dhanusha-sathsara-jayasri" /></p>
 
